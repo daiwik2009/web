@@ -1,0 +1,111 @@
+body{
+    background-image: url('img/baaaak.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.A{
+    width: 100px;
+    vertical-align: top;
+    cursor: pointer;
+}
+.A:hover{
+    opacity: 0.5;
+}
+.B{
+    width: 500px;
+    height: 35px;
+    background-color: transparent;
+    color: white;
+    border-color: whitesmoke;
+    border-radius: 30px;
+}
+.E,.J,.N{
+    font-family: Arial;
+    background-color: Red;
+    color: white;
+    font-size: 30px;
+    width: 300px;
+}
+.F,.G,.H,.I{
+    color: white;
+    font-family: Arial;
+    width: 500px;
+    font-size: 17px;
+}
+.O{
+    width:336px;
+    cursor: pointer;
+    padding: 5px;
+    display: inline-block;
+}
+.Q{
+    color:white;
+    font-family: Arial;
+    font-size: 20px;
+}
+.dv{
+    border-radius: 50px;
+}
+.channel-developes{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.di{
+    height: 96px;
+    border-radius:50px ;
+}
+.K{
+background-color: rgb(202, 37, 37);
+    color: white;
+    border: none;
+    height: 35px;
+    width: 100px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition:opacity 0.15s;
+}
+.K:hover{
+   opacity:0.4;
+}
+.K:active{
+    opacity:0.1;
+}
+.L{
+    background-color:rgb(63, 148, 204) ;
+    color: white;
+}
+.L:active{
+    opacity:0.7;
+}
+.L{
+    background-color: white;
+    border-color: rgb(63, 148, 204);
+    border-style: solid;
+    border-width: 1px;
+    color:rgb(63, 148, 204);
+    width: 100px;
+    height: 35px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 8px;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.M{
+    background-color: rgb(63, 148, 204);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: opacity 0.15s;
+    
+}
+.M:hover{
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.14)
+}
+
